@@ -1,6 +1,7 @@
 body {
     background-image: url("https://onlinegadanie.ru/wp-content/uploads/2018/06/oracle-cards.jpg");
-    background-repeat: no-repeat;
+  	background-color: rgb(139, 141, 11); 
+  background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -55,9 +56,6 @@ p {
   align-items: center;
   padding: 5px;
  }
-
- 
-
  
 .button {
   display: flex;
